@@ -35,8 +35,20 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: black;
+  background-color: black;
 }
+
+.facebook{
+  background: url("Images/facebook.png");
+}
+
+.google{
+  background: url("Images/google.png")
+}
+.LinkedIn{
+  background: url("Images/linkedin.png")
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
